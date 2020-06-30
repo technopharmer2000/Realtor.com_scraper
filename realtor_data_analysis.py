@@ -73,7 +73,7 @@ Change current directory to directory with HTML Realtor.com data
 """
 
 # Commented out IPython magic to ensure Python compatibility.
-# %cd drive/My\ Drive/Colab\ Notebooks
+# %cd gdrive/My\ Drive/Colab\ Notebooks
 # %ls
 
 """# 1.3 def get_home_data() 
